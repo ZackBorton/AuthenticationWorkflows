@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API</name>
+    </assembly>
+    <members>
+        <member name="M:API.Controllers.AuthenticateController.Login(API.Controllers.AuthenticateController.UserModel,Microsoft.AspNetCore.Identity.IdentityUser)">
+            <summary>
+                A sample controller route
+            </summary>
+            <param name="portfolioPolicy"></param>
+            <returns></returns>
+        </member>
+        <member name="M:API.Controllers.SampleController.ExampleGet(System.Collections.Generic.List{System.String})">
+            <summary>
+                A sample controller route
+            </summary>
+            <param name="portfolioPolicy"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
